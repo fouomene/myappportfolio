@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="titleframe">The cat in the Hat Apps</string>
+    <string name="textCat">The Cat</string>
+    <string name="textThing1">Thing 1</string>
+    <string name="textThing2">Thing 2</string>
+    <string name="textThing3">Thingamajigger</string>
+    <string name="textSally">Sally</string>
+    <string name="textNick">Nick</string>
+    <string name="textSeuss">Dr. Seuss</string>
+</resources>
